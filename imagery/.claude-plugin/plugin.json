@@ -1,0 +1,28 @@
+{
+  "name": "imagery",
+  "displayName": "imagery.vision",
+  "version": "0.12.0",
+  "description": "Build and run workflows on your live imagery.vision canvas from Claude Code — nodes appear in your browser as you talk.",
+  "author": {
+    "name": "siba.studio (Simon Bauer)",
+    "url": "https://imagery.vision"
+  },
+  "homepage": "https://docs.imagery.vision/editor/mcp/",
+  "repository": "https://github.com/sbauer-hash/imagery-claude-plugins",
+  "license": "UNLICENSED",
+  "keywords": [
+    "imagery.vision",
+    "architecture",
+    "visualization",
+    "mcp"
+  ],
+  "userConfig": {
+    "pairing_token": {
+      "type": "string",
+      "title": "Kopplungs-Code",
+      "description": "Steht in imagery.vision in der MCP-Verbindung (Node oder Header-Chip) unter „Kopplungs-Code“.",
+      "sensitive": true,
+      "required": true
+    }
+  }
+}

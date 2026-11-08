@@ -1,0 +1,14 @@
+{
+  "name": "imagery-claude-plugins",
+  "owner": { "name": "siba.studio (Simon Bauer)", "url": "https://imagery.vision" },
+  "metadata": {
+    "description": "Claude Code plugins for imagery.vision, the node-based studio for architecture and real-estate visualization."
+  },
+  "plugins": [
+    {
+      "name": "imagery",
+      "source": "./imagery",
+      "description": "Build and run workflows on your live imagery.vision canvas from Claude Code."
+    }
+  ]
+}
