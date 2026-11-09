@@ -1,7 +1,7 @@
 {
   "name": "imagery",
   "displayName": "imagery.vision",
-  "version": "0.13.0",
+  "version": "0.14.0",
   "description": "Build and run workflows on your live imagery.vision canvas from Claude Code — nodes appear in your browser as you talk.",
   "author": {
     "name": "siba.studio (Simon Bauer)",

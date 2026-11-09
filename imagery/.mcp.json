@@ -2,7 +2,7 @@
   "mcpServers": {
     "imagery": {
       "command": "npx",
-      "args": ["-y", "https://docs.imagery.vision/downloads/imagery-mcp-0.13.0.tgz"],
+      "args": ["-y", "https://docs.imagery.vision/downloads/imagery-mcp-0.14.0.tgz"],
       "env": { "IMAGERY_MCP_TOKEN": "${user_config.pairing_token}" }
     }
   }
